@@ -1,0 +1,11 @@
+{
+  "name": "create-react-app",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "fengxiongwei",
+  "homepage": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^8.2.0"
+  }
+}
